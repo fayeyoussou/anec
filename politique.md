@@ -1,7 +1,7 @@
 # Politique de Confidentialité de l'Application NEKKAL
 
 ## Introduction
-L'application **NEKKAL**, mise en place par l'**Agence Nationale d'État Civil (ANEC)** du Sénégal, a pour objectif de faciliter les démarches administratives liées à l'état civil. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos données personnelles.
+Cette application n’est pas affiliée à une entité gouvernementale et ne représente aucune organisation officielle. Elle sert uniquement à faciliter l’accès aux documents d’état civil.
 
 ## 1. Collecte des Données Personnelles
 Nous collectons des données personnelles nécessaires au traitement des demandes d'état civil, notamment :
