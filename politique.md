@@ -3,11 +3,9 @@
 **Version :** 1.0  
 **Date d'entrée en vigueur :** 28 avril 2026  
 **Dernière mise à jour :** 28 avril 2026  
-**Éditeur :** ANEC
+**Éditeur :** Agence Nationale de l'État Civil (ANEC)  
 
 ---
-
-> **Avertissement important :** Cette application n'est pas affiliée à une entité gouvernementale et ne représente aucune organisation officielle. Elle a pour unique vocation de faciliter l'accès aux démarches liées aux documents d'état civil au Sénégal.
 
 ---
 
@@ -65,7 +63,7 @@ Aux fins de la présente politique, les termes suivants ont les significations i
 | **Sous-traitant** | Tout prestataire qui traite des données pour le compte du responsable du traitement |
 | **Utilisateur** | Toute personne physique utilisant l'application Sama État Civil |
 | **Acte d'état civil** | Document officiel attestant d'un événement de la vie civile (naissance, mariage, décès, etc.) |
-| **ANEC** | Agence Nationale de l'État Civil du Sénégal |
+| **ANEC** | Agence Nationale de l'État Civil du Sénégal — responsable du traitement et éditeur de l'application |
 | **CDP** | Commission de Protection des Données Personnelles du Sénégal |
 | **Loi 2008-12** | Loi sénégalaise n° 2008-12 du 25 janvier 2008 sur la protection des données à caractère personnel |
 
@@ -73,13 +71,13 @@ Aux fins de la présente politique, les termes suivants ont les significations i
 
 ## 3. Responsable du traitement
 
-**Dénomination sociale :** Faye Core Consulting (FC2)  
-**Forme juridique :** Société de conseil en ingénierie logicielle  
+**Dénomination :** Agence Nationale de l'État Civil (ANEC)  
+**Tutelle :** Ministère de l'Intérieur, République du Sénégal  
 **Siège social :** Dakar, Sénégal  
-**Email de contact :** privacy@fayecoreconsulting.sn *(à configurer)*  
+**Email de contact :** privacy@anec.sn *(à configurer)*  
 **Délégué à la Protection des Données (DPD) :** À désigner conformément à la réglementation sénégalaise
 
-> En tant qu'intermédiaire, FC2 agit en lien avec l'**ANEC** pour le traitement des demandes officielles. Dans ce cadre, l'ANEC peut être co-responsable du traitement pour les données transmises aux fins de délivrance d'actes.
+> L'ANEC est le responsable principal du traitement des données personnelles collectées via l'application Sama État Civil. Les mairies et centres d'état civil partenaires agissent en tant que destinataires autorisés pour la délivrance des actes.
 
 ---
 
@@ -162,10 +160,10 @@ Nous nous engageons à ne **jamais vendre, louer ni céder** vos données person
 
 Vos données peuvent être partagées uniquement avec les catégories de destinataires suivantes :
 
-#### 6.2.1 Autorités publiques sénégalaises
+#### 6.2.1 Partenaires institutionnels
 
-- **ANEC (Agence Nationale de l'État Civil)** — pour le traitement et la validation des demandes d'actes
-- **Mairies et centres d'état civil** — pour la délivrance locale des documents
+- **Mairies et centres d'état civil** — pour la validation locale et la délivrance des documents
+- **Ministère de l'Intérieur** — dans le cadre de la supervision administrative
 - **Toute autorité publique compétente** — dans le cadre d'une obligation légale ou d'une décision de justice
 
 #### 6.2.2 Sous-traitants techniques
@@ -285,8 +283,8 @@ Lorsque le traitement est fondé sur votre consentement, vous pouvez le retirer 
 Pour exercer l'un de ces droits, vous pouvez :
 
 - Utiliser la section **« Mon Compte > Confidentialité »** directement dans l'application
-- Envoyer une demande écrite à l'adresse e-mail : **privacy@fayecoreconsulting.sn**
-- Adresser un courrier au siège social indiqué à la section 3
+- Envoyer une demande écrite à l'adresse e-mail : **privacy@anec.sn**
+- Adresser un courrier au siège de l'ANEC indiqué à la section 3
 
 > Votre demande sera traitée dans un délai maximum de **30 jours** à compter de sa réception. Ce délai peut être prolongé de 60 jours supplémentaires en cas de demandes complexes ou multiples, avec information préalable.
 
@@ -350,9 +348,9 @@ La version en vigueur est toujours accessible depuis la rubrique **« Paramètre
 
 Pour toute question relative à la présente politique ou au traitement de vos données personnelles :
 
-- **Email :** privacy@fayecoreconsulting.sn
+- **Email :** privacy@anec.sn
 - **Formulaire de contact :** disponible dans l'application sous **« Aide > Contacter le DPD »**
-- **Courrier :** Faye Core Consulting, Délégué à la Protection des Données, Dakar, Sénégal
+- **Courrier :** Agence Nationale de l'État Civil (ANEC), Délégué à la Protection des Données, Dakar, Sénégal
 
 ### 13.2 Réclamation auprès de l'autorité de contrôle
 
@@ -379,5 +377,5 @@ Si vous estimez que vos droits ne sont pas respectés, vous avez le droit d'intr
 
 ---
 
-**© 2026 Faye Core Consulting (FC2) — Tous droits réservés**  
+**© 2026 Agence Nationale de l'État Civil (ANEC) — Tous droits réservés**  
 *Document soumis à la législation sénégalaise en vigueur.*
