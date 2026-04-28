@@ -3,7 +3,7 @@
 **Version :** 1.0  
 **Date d'entrée en vigueur :** 28 avril 2026  
 **Dernière mise à jour :** 28 avril 2026  
-**Éditeur :** Faye Core Consulting (FC2), pour le compte du service Sama État Civil  
+**Éditeur :** ANEC
 
 ---
 
