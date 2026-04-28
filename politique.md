@@ -31,7 +31,7 @@
 
 ### 1.1 À propos de l'application
 
-**Sama État Civil** est une application mobile et web conçue pour simplifier les démarches administratives des citoyens sénégalais souhaitant obtenir, renouveler ou certifier des actes d'état civil (actes de naissance, actes de mariage, actes de décès, certificats de résidence, etc.).
+**Sama État Civil** est une application mobile et web conçue pour simplifier les démarches administratives des citoyens sénégalais souhaitant obtenir, renouveler ou certifier des actes d'état civil (actes de naissance, actes de mariage, actes de décès).
 
 L'application agit en tant qu'**intermédiaire numérique** entre les usagers et les services compétents, en facilitant la soumission de demandes, le suivi en temps réel et, le cas échéant, la livraison des documents.
 
