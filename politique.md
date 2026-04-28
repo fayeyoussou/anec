@@ -1,4 +1,4 @@
-# Politique de Confidentialité de l'Application NEKKAL
+# Politique de Confidentialité de l'Application Sama Etat Civil
 
 ## Introduction
 Cette application n’est pas affiliée à une entité gouvernementale et ne représente aucune organisation officielle. Elle sert uniquement à faciliter l’accès aux documents d’état civil.
@@ -38,4 +38,4 @@ Pour toute question ou réclamation concernant cette politique de confidentialit
 
 ---
 
-**En utilisant l'application NEKKAL, vous acceptez la présente Politique de Confidentialité.**
+**En utilisant l'application Sama Etat Civil, vous acceptez la présente Politique de Confidentialité.**
